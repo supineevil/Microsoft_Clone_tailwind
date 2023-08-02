@@ -1,4 +1,5 @@
 # Microsoft_Clone_tailwind
+## NOTE: This is just a clone design of the Microsoft.com , it is not functional .
 This is a clone of Microsoft.com Home-Page using tailwindcss to learn the implementation of tailwind css and its dynamic characteristics
 ```
 This website is setup by using Tailwind post css
