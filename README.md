@@ -10,4 +10,14 @@ This website is setup by using Tailwind post css
 4.Add the Tailwind directives to your CSS & Add the @tailwind directives for each of Tailwind’s layers to your main CSS file.
 5.Start using Tailwind in your HTML
 ```
-## hel
+## Mobile view
+
+![Mob1](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/0810651b-6959-419e-831e-ac3092fe4673)
+![Mob2](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/b1d6ee36-0fa2-4b4e-a5f2-2bc4e0adb859)
+![Mob3](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/2b06ef0a-c011-4c1f-8dc8-1ea01ed2ded8)
+
+## Laptop view
+![lap1](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/8a461970-f1d7-479a-becf-ab771d75e195)
+![lap2](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/d77a1517-0c49-4b0f-aedd-3c2b198bf25e)
+![lap3](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/6c301994-d16f-48a8-ba78-b40f1ef0c163)
+![lap4](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/ade68736-6156-4654-b67e-045abdbdaff7)
