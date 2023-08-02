@@ -15,6 +15,8 @@ This website is setup by using Tailwind post css
 ![Mob1](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/0810651b-6959-419e-831e-ac3092fe4673)
 ![Mob2](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/b1d6ee36-0fa2-4b4e-a5f2-2bc4e0adb859)
 ![Mob3](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/2b06ef0a-c011-4c1f-8dc8-1ea01ed2ded8)
+![Mob4](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/e7bea8e0-4465-4785-85d8-fc755ec56abe)
+
 
 ## Laptop view
 ![lap1](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/8a461970-f1d7-479a-becf-ab771d75e195)
