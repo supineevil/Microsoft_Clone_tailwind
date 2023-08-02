@@ -20,7 +20,7 @@ This website is setup by using Tailwind post css
 
 ## Mobile view
 <p align="center">
-  <img src="https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/0810651b-6959-419e-831e-ac3092fe4673>
+  <img src="https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/0810651b-6959-419e-831e-ac3092fe4673">
 </P>
 <p align="center">
   <img src="https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/b1d6ee36-0fa2-4b4e-a5f2-2bc4e0adb859">
