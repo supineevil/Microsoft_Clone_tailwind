@@ -1,5 +1,5 @@
 # Microsoft_Clone_tailwind
-This is  a login clone of Facebook.com using tailwind css to learn the implementation of tailwind css
+This is a clone of Microsoft.com Home-Page using tailwindcss to learn the implementation of tailwind css and its dynamic characteristics
 ```
 This website is setup by using Tailwind post css
 1. Install Tailwind CSS &Install tailwindcss and its peer dependencies via npm, and create your tailwind.config.js file.
