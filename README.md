@@ -10,7 +10,7 @@ This website is setup by using Tailwind post css
 4.Add the Tailwind directives to your CSS & Add the @tailwind directives for each of Tailwind’s layers to your main CSS file.
 5.Start using Tailwind in your HTML
 ```
-
+## Check out the build version - (https://clone-micro-soft.netlify.app/)
 
 ## Laptop view
 ![lap1](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/8a461970-f1d7-479a-becf-ab771d75e195)
