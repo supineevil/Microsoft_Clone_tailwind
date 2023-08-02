@@ -20,11 +20,11 @@ This website is setup by using Tailwind post css
 
 ## Mobile view
 <p align="center">
-  ![Mob1](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/0810651b-6959-419e-831e-ac3092fe4673)
+  <img src="https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/0810651b-6959-419e-831e-ac3092fe4673>
 </P>
 <p align="center">
-  ![Mob2](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/b1d6ee36-0fa2-4b4e-a5f2-2bc4e0adb859)
+  <img src="https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/b1d6ee36-0fa2-4b4e-a5f2-2bc4e0adb859">
 </P>
 <p align="center">
-![Mob3](https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/2b06ef0a-c011-4c1f-8dc8-1ea01ed2ded8)
+  <img src="https://github.com/supineevil/Microsoft_Clone_tailwind/assets/75155924/2b06ef0a-c011-4c1f-8dc8-1ea01ed2ded8">
 </p>
